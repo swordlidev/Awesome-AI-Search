@@ -4,7 +4,7 @@
   <a href="https://github.com/swordlidev/Awesome-AI-Search/stargazers"><img src="https://img.shields.io/github/stars/swordlidev/Awesome-AI-Search?style=for-the-badge" alt="Stargazers"></a>
   <a href="https://github.com/swordlidev/Awesome-AI-Search/network/members"><img src="https://img.shields.io/github/forks/swordlidev/Awesome-AI-Search?style=for-the-badge" alt="Forks"></a>
   <a href="https://github.com/swordlidev/Awesome-AI-Search/graphs/contributors"><img src="https://img.shields.io/github/contributors/aswordlidev/Awesome-AI-Search?style=for-the-badge" alt="Contributors"></a>
-  <a href="https://github.comswordlidev/Awesome-AI-Search/blob/main/LICENSE"><img src="https://img.shields.io/github/license/swordlidev/Awesome-AI-Search?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.comswordlidev/Awesome-AI-Search/blob/main/LICENSE"><img src="https://img.shields.io/github/license/swordlidev/Awesome-AI-Search?style=for-the-badge" alt="License"></a>
 </div>
 
 <p align="center">
