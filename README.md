@@ -2,6 +2,10 @@
 
 <h1 align="left">Awesome AI Search</h1>
 
+> **[ Survey on AI Search with Large Language Models](https://github.com/swordlidev/Awesome-AI-Search/blob/main/AI%20Search%20survey%20paper.pdf)**
+
+> *<sup>1</sup>Tencent YouTu Lab, <sup>2</sup>RUC, <sup>3</sup>NJU*
+
 <p align="center">
     <img src="./timeline no logo.jpg" width="90%" style="align:center;"/>
 </p>
