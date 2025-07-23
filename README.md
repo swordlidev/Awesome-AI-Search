@@ -1,13 +1,10 @@
-# Awesome-AI-Search
-This repository offers an in-depth review of these advancements, focusing on Text-based AI Search, Web Browsing Agents, Multimodal AI Search, Benchmarks, Software, and Products.
-
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/swordlidev/Awesome-AI-Search/stargazers"><img src="https://img.shields.io/github/stars/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="Stargazers"></a>
-  <a href="https://github.com/swordlidev/Awesome-AI-Search/network/members"><img src="https://img.shields.io/github/forks/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/swordlidev/Awesome-AI-Search/graphs/contributors"><img src="https://img.shields.io/github/contributors/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="Contributors"></a>
-  <a href="https://github.comswordlidev/Awesome-AI-Search/blob/main/LICENSE"><img src="https://img.shields.io/github/license/atfortes/Awesome-LLM-Reasoning?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/swordlidev/Awesome-AI-Search/stargazers"><img src="https://img.shields.io/github/stars/swordlidev/Awesome-AI-Search?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/swordlidev/Awesome-AI-Search/network/members"><img src="https://img.shields.io/github/forks/swordlidev/Awesome-AI-Search?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/swordlidev/Awesome-AI-Search/graphs/contributors"><img src="https://img.shields.io/github/contributors/aswordlidev/Awesome-AI-Search?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.comswordlidev/Awesome-AI-Search/blob/main/LICENSE"><img src="https://img.shields.io/github/license/swordlidev/Awesome-AI-Search?style=for-the-badge" alt="MIT License"></a>
 </div>
 
 <p align="center">
