@@ -1,12 +1,10 @@
 <a name="readme-top"></a>
 
-<h1 align="center">Awesome AI Search</h1>
+<h1 align="left">Awesome AI Search</h1>
 
 <p align="center">
     <img src="./timeline no logo.jpg" width="90%" style="align:center;"/>
 </p>
-
-<h1 align="center">Awesome AI Search</h1>
 
 <p align="center">
     <b> Curated collection of papers and resources on AI Search: Methods, Benchmarks, Software, and Products.</b>
